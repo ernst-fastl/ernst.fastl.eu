@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Java",
+    "percentage": 100
+  },
+  {
+    "name": "Continous Integration and Testing",
+    "percentage": 100
+  },
+  {
+    "name": "HTML, CSS, JavaScript",
+    "percentage": 90
+  },
+  {
+    "name": "SQL",
+    "percentage": 90
+  },
+  {
+    "name": "C# .NET",
+    "percentage": 75
+  },
+  {
+    "name": "Angular, React",
+    "percentage": 75
+  }
+]

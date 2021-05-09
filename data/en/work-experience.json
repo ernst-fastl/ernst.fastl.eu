@@ -1,0 +1,59 @@
+[
+  {
+    "from": "06/2019",
+    "to": "current",
+    "title": "founding a company & self-learning",
+    "companyName": "ernst.fastl.eu",
+    "companyURL": "https://ernst.fastl.eu"
+  },
+  {
+    "from": "08/2019",
+    "to": "05/2020",
+    "title": "Timeout",
+    "companyName": "---",
+    "companyURL": "index.html"
+  },
+  {
+    "from": "12/2016",
+    "to": "07/2019",
+    "title": "Head of Department",
+    "companyName": "s-itsolutions.at",
+    "companyURL": "http://www.s-itsolutions.at"
+  },
+  {
+    "from": "09/2012",
+    "to": "09/2016",
+    "title": "Scrum Master",
+    "companyName": "lotterien.at",
+    "companyURL": "http://www.lotterien.at"
+  },
+  {
+    "from": "10/2010",
+    "to": "06/2012",
+    "title": "Scrum Master & Lead Developer",
+    "companyName": "europeandirectories.com",
+    "companyURL": "http://www.europeandirectories.com"
+  },
+  {
+    "from": "11/2009",
+    "to": "09/2010",
+    "title": "Senior Software Engineer & Architect",
+    "companyName": "herold.at",
+    "companyURL": "http://www.herold.at"
+  },
+  {
+    "from": "11/2005",
+    "to": "05/2009",
+    "title": "Senior Software Engineer",
+    "companyName": "irian.at",
+    "companyURL": "http://www.irian.at"
+  },
+  {
+    "from": "08/2002",
+    "to": "05/2005",
+    "title": "Software Developer & Systems Administrator",
+    "companyName": "ess.co.at",
+    "companyURL": "http://www.ess.co.at"
+  }
+
+]
